@@ -1,0 +1,48 @@
+/* Body */
+/* ************************************************************************ */
+body {
+    background-color: rgb(200, 255, 200);
+}
+
+h1 {
+    text-align: center;
+    margin: 1em 0 2em 0;
+}
+
+.column--wide {
+    width: 800px;
+    float: left;
+}
+
+.column-narrow {
+    width: 400 px;
+    float: right;
+}
+
+/* Canvas */
+/* ************************************************************************ */
+.singleSquare {
+    background-color: white;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 0 0 -4px 0;
+    box-sizing: border-box;
+}
+
+#canvas {
+    border: 3px solid black;
+    margin: 0 auto;
+}
+
+
+/* Form */
+/* ************************************************************************ */
+form {
+    display: inline-block;
+    font-size: 1em;
+    margin-bottom: 3em;
+}
+
+button {
+    font-size: 1em;
+}
