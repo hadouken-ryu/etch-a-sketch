@@ -2,7 +2,7 @@
 // Global
 // ***************************************************************************
 var State = {
-    currentSize: 15,
+    currentSize: 16,
     inkType: document.querySelector('input[name="ink"]:checked').value,
     canvasWidth: 600,
     canvasHeight: 600
